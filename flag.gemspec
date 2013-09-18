@@ -6,6 +6,6 @@ Gem::Specification.new do |gem|
   gem.description   = 'A tiny flag parser'
   gem.summary       = 'A simple, barebones CLI flag parser in less than 100 sloc'
   gem.homepage      = 'http://github.com/moshee/flag'
-  gem.files         = %w(README.MD flag.rb)
+  gem.files         = %w(README.md flag.rb)
   gem.require_paths = ['.']
 end
